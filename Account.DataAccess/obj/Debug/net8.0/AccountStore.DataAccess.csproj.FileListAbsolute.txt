@@ -1,0 +1,17 @@
+H:\Account\Account.DataAccess\bin\Debug\net8.0\AccountStore.DataAccess.deps.json
+H:\Account\Account.DataAccess\bin\Debug\net8.0\AccountStore.DataAccess.runtimeconfig.json
+H:\Account\Account.DataAccess\bin\Debug\net8.0\AccountStore.DataAccess.dll
+H:\Account\Account.DataAccess\bin\Debug\net8.0\AccountStore.DataAccess.pdb
+H:\Account\Account.DataAccess\bin\Debug\net8.0\AccountStore.Core.dll
+H:\Account\Account.DataAccess\bin\Debug\net8.0\AccountStore.Core.pdb
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.csproj.AssemblyReference.cache
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.AssemblyInfoInputs.cache
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.AssemblyInfo.cs
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.csproj.CoreCompileInputs.cache
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountS.412099F5.Up2Date
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.dll
+H:\Account\Account.DataAccess\obj\Debug\net8.0\refint\AccountStore.DataAccess.dll
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.pdb
+H:\Account\Account.DataAccess\obj\Debug\net8.0\AccountStore.DataAccess.genruntimeconfig.cache
+H:\Account\Account.DataAccess\obj\Debug\net8.0\ref\AccountStore.DataAccess.dll

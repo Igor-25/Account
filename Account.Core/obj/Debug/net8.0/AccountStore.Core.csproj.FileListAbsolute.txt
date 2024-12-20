@@ -1,0 +1,11 @@
+H:\Account\Account.Core\bin\Debug\net8.0\AccountStore.Core.deps.json
+H:\Account\Account.Core\bin\Debug\net8.0\AccountStore.Core.dll
+H:\Account\Account.Core\bin\Debug\net8.0\AccountStore.Core.pdb
+H:\Account\Account.Core\obj\Debug\net8.0\AccountStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Account\Account.Core\obj\Debug\net8.0\AccountStore.Core.AssemblyInfoInputs.cache
+H:\Account\Account.Core\obj\Debug\net8.0\AccountStore.Core.AssemblyInfo.cs
+H:\Account\Account.Core\obj\Debug\net8.0\AccountStore.Core.csproj.CoreCompileInputs.cache
+H:\Account\Account.Core\obj\Debug\net8.0\AccountStore.Core.dll
+H:\Account\Account.Core\obj\Debug\net8.0\refint\AccountStore.Core.dll
+H:\Account\Account.Core\obj\Debug\net8.0\AccountStore.Core.pdb
+H:\Account\Account.Core\obj\Debug\net8.0\ref\AccountStore.Core.dll

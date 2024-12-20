@@ -1,0 +1,15 @@
+H:\Account\Account.Application\bin\Debug\net8.0\AccountStore.Application.deps.json
+H:\Account\Account.Application\bin\Debug\net8.0\AccountStore.Application.dll
+H:\Account\Account.Application\bin\Debug\net8.0\AccountStore.Application.pdb
+H:\Account\Account.Application\bin\Debug\net8.0\AccountStore.Core.dll
+H:\Account\Account.Application\bin\Debug\net8.0\AccountStore.Core.pdb
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.csproj.AssemblyReference.cache
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.AssemblyInfoInputs.cache
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.AssemblyInfo.cs
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.csproj.CoreCompileInputs.cache
+H:\Account\Account.Application\obj\Debug\net8.0\AccountS.B14D42C1.Up2Date
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.dll
+H:\Account\Account.Application\obj\Debug\net8.0\refint\AccountStore.Application.dll
+H:\Account\Account.Application\obj\Debug\net8.0\AccountStore.Application.pdb
+H:\Account\Account.Application\obj\Debug\net8.0\ref\AccountStore.Application.dll

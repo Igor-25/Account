@@ -1,0 +1,11 @@
+H:\Account\Account.Application\bin\Debug\net8.0\Account.Application.deps.json
+H:\Account\Account.Application\bin\Debug\net8.0\Account.Application.dll
+H:\Account\Account.Application\bin\Debug\net8.0\Account.Application.pdb
+H:\Account\Account.Application\obj\Debug\net8.0\Account.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Account\Account.Application\obj\Debug\net8.0\Account.Application.AssemblyInfoInputs.cache
+H:\Account\Account.Application\obj\Debug\net8.0\Account.Application.AssemblyInfo.cs
+H:\Account\Account.Application\obj\Debug\net8.0\Account.Application.csproj.CoreCompileInputs.cache
+H:\Account\Account.Application\obj\Debug\net8.0\Account.Application.dll
+H:\Account\Account.Application\obj\Debug\net8.0\refint\Account.Application.dll
+H:\Account\Account.Application\obj\Debug\net8.0\Account.Application.pdb
+H:\Account\Account.Application\obj\Debug\net8.0\ref\Account.Application.dll
